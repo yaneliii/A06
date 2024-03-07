@@ -17,6 +17,10 @@ header h3 {
 	text-indent: 30px;
 }
 
+.shadow {
+	text-shadow: 3px 3px 3px #800000;
+}
+
 header img {
 	float: left;
 }
